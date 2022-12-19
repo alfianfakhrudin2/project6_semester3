@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="click_again">Press back to exit</string>
+    <string name="sub_title">Sub-title</string>
+    <string name="modal">Color</string>
+</resources>
